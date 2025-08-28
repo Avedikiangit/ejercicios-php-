@@ -96,8 +96,6 @@ if($_POST){
                         <td><?php echo  number_format($precioivacantidad ,2,",","." );?></td>
                     </tr>
                     
-                    
-                    
                 </table>
                 
             </div>
